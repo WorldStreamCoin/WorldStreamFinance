@@ -23,5 +23,5 @@
 
 ## About
 
-<p>A World Stream Finance aims through the token $tream to contribute to the development of the community of streamers, to be a way to buy game items with discounts and a platform to bet and follow e-sports championships by multiplying their tokens.
+<p>The World Stream Finance aims through the token $tream to contribute to the development of the community of streamers, to be a way to buy game items with discounts and a platform to bet and follow e-sports championships by multiplying their tokens.
 </p>
